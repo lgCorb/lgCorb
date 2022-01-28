@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hello, folks! <img src=https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif width="30px"> 
 
-<!--
-**lgCorb/lgCorb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
 
-Here are some ideas to get you started:
+About me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I’m a veterinarian 🐷 🐮 🐔 epidemiologist 📈 📉 📊
+
+- 🔭 I’m currently CEO at Corb Science
+
+- 🌱 I’m currently learning epidemiology (always)
+
+- 📫 How to reach me: luis.corbellini@corbscience.com
+
+ 
+
+[![Corb's GitHub stats](https://github-readme-stats.vercel.app/api?username=lgCorb)](https://github.com/lgCorb/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lgCorb&layout=compact)](https://github.com/lgCorb/github-readme-stats)
